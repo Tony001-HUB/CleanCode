@@ -1,0 +1,21 @@
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\bin\Debug\AirCompany.exe.config
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\bin\Debug\AirCompany.exe
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\bin\Debug\AirCompany.pdb
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\obj\Debug\AirCompany.csprojAssemblyReference.cache
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\obj\Debug\AirCompany.csproj.CoreCompileInputs.cache
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\obj\Debug\AirCompany.exe
+D:\3 Курс\EPAM\Чистый_Код\AirCompany\obj\Debug\AirCompany.pdb
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.exe.config
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.exe
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.pdb
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.csprojAssemblyReference.cache
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.csproj.CoreCompileInputs.cache
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.exe
+C:\Users\boris\Downloads\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.pdb
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.exe.config
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.exe
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\bin\Debug\AirCompany.pdb
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.csprojAssemblyReference.cache
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.csproj.CoreCompileInputs.cache
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.exe
+D:\3 Курс\EPAM\Чистый_Код\Итог\AirCompanyNEW\AirCompany\obj\Debug\AirCompany.pdb
